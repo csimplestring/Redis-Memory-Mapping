@@ -1,3 +1,11 @@
+Hello, This project is to extend Redis by adding a memory-mapped layer in it
+this idea, obviously, inspired by MongoDB. I will continuously update and perfect it.
+
+
+
+
+
+
 Where to find complete Redis documentation?
 -------------------------------------------
 

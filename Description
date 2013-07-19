@@ -1,0 +1,1 @@
+This project is a part of my research project during Master, which aims to extend the storage capacity of Redis by adding a memory mapped layer(yes, inspired by MongoDB). Many Redis fans have discussed about this solution and I implement this solution for experiment and for curiosity. 
